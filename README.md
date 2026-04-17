@@ -81,19 +81,14 @@
 ### 🌐 SocialConnect - Social Media Platform
 > A full-featured social media application that allows users to connect, share posts, interact with content, and build communities in real-time.
 
-- 🛠 **Tech Stack:** MERN (MongoDB, Express.js, React, Node.js), Socket.io, Redux Toolkit, Tailwind CSS
+- 🛠 **Tech Stack:** MERN (MongoDB, Express.js, Node.js), Socket.io, Redux Toolkit, Tailwind CSS
 - ✨ **Features:**
   - User profiles with customizable avatars and cover photos
   - Create, edit, and delete posts with images and videos
   - Like, comment, and share functionality
   - Real-time chat messaging with Socket.io
   - Friend requests and followers system
-  - News feed with infinite scrolling
-  - Stories that expire after 24 hours
   - Notifications for likes, comments, and friend requests
-  - Search and discover new users
-  - Dark/Light mode toggle
-  - Mobile-responsive design
   - User blocking and reporting system
 
 🔗 [Live Demo Coming Soon] | [Project Repo Coming Soon]
