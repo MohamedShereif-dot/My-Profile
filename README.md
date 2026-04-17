@@ -103,7 +103,7 @@
 ### 🧠 Medical Chatbot
 > An AI-powered chatbot that assists users with disease diagnosis, health tips, and recommends the nearest hospitals using Google Maps.
 
-- 🛠 Tech Stack: React, Node.js, MongoDB, Google Maps API, python
+- 🛠 Tech Stack: React, Node.js, MongoDB, Google Maps API, Python
 - 💬 Features: Symptom-based disease detection, real-time health suggestions, location-based hospital search
 
 🔗 [Project Repo Coming Soon]
