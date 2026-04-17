@@ -4,10 +4,6 @@
   💻 Full-Stack Web Developer | 🧠 Lifelong Learner | 🚀 MERN + NestJS Enthusiast
 </p>
 
-<p align="center">
-  <a href="https://github.com/MohamedShereif-dot"><img src="https://img.shields.io/github/followers/MohamedShereif-dot?label=GitHub&style=social"></a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
