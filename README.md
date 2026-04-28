@@ -13,7 +13,7 @@
 - 💡 Passionate about building modern, scalable, and interactive web applications
 - 🧠 Strong foundation in both frontend and backend development
 - 🎯 Focused on clean code, user experience, and continuous learning
-- 📚 Currently learning: **NestJS, GraphQL, Microservices**
+- 📚 Currently learning: **Next.JS**
 - 🚀 **Latest Project:** Full-Stack E-Commerce Platform built with NestJS + React
 
 ---
@@ -30,7 +30,6 @@
 
 ### ⚙ Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
