@@ -73,7 +73,7 @@
   - Wishlist functionality
   - Product reviews and ratings
 
-🔗 [Live Demo Coming Soon] | [Backend Repo](#) | [Frontend Repo](#)
+🔗 [Live Demo Coming Soon] | [[Backend Repo](https://github.com/MohamedShereif-dot/E-Commerce.git)](#) | [[Frontend Repo](https://github.com/MohamedShereif-dot/Online-shop.git)](#)
 
 ---
 
@@ -90,7 +90,7 @@
   - Notifications for likes, comments, and friend requests
   - User blocking and reporting system
 
-🔗 [Live Demo Coming Soon] | [Project Repo Coming Soon]
+🔗 [Live Demo Coming Soon] | [[Backend Repo](https://github.com/MohamedShereif-dot/SocialApp.git)]
 
 ---
 
